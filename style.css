@@ -38,7 +38,7 @@
 }
 /* below nav-bar  */
 .box-1{
-    background-image: url(assets/images/box1img.png);
+    background-image: url(box1img.png);
     height: 38rem;
 }
 .content-box1{
@@ -169,7 +169,7 @@
     margin-right: 5vh;
 }
 .box-5{
-    background-image: url(assets/images/box5img.png);
+    background-image: url(box5img.png);
     height: 28rem;
     display: flex;
     justify-content: center;
